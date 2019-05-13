@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "phaser-starter",
+  "version": "1.0.0",
+  "description": "Phaser starter playground",
+  "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "build": "webpack",
+    "lint": "tslint 'src/**/*.ts?(x)'"
+  },
+  "author": "daniel hodvogner <dhodvogner@gmail.com>",
+  "license": "WTFPL",
+  "devDependencies": {
+    "phaser": "^3.17.0",
+    "ts-loader": "^5.3.3",
+    "tslint": "^5.14.0",
+    "tslint-webpack-plugin": "^2.0.4",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "dependencies": {}
+}
