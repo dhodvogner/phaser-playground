@@ -11,14 +11,14 @@
   "author": "daniel hodvogner <dhodvogner@gmail.com>",
   "license": "WTFPL",
   "devDependencies": {
-    "phaser": "^3.17.0",
+    "phaser": "^3.21.0",
     "ts-loader": "^5.3.3",
-    "tslint": "^5.14.0",
-    "tslint-webpack-plugin": "^2.0.4",
-    "typescript": "^3.3.3333",
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.3.0",
-    "webpack-dev-server": "^3.2.1"
+    "tslint": "^5.20.1",
+    "tslint-webpack-plugin": "^2.1.0",
+    "typescript": "^3.7.3",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {}
 }
