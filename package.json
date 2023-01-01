@@ -11,13 +11,13 @@
   "author": "daniel hodvogner <dhodvogner@gmail.com>",
   "license": "WTFPL",
   "devDependencies": {
-    "phaser": "^3.21.0",
-    "ts-loader": "^5.3.3",
+    "phaser": "^3.55.2",
+    "ts-loader": "^9.4.2",
     "tslint": "^5.20.1",
     "tslint-webpack-plugin": "^2.1.0",
     "typescript": "^3.7.3",
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {}
